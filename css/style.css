@@ -1,0 +1,128 @@
+body{
+	background-color: #f0f0f0;
+}
+ a{
+ 	text-decoration: none;
+ }
+
+a:hover{
+	text-decoration: none;
+}
+ 
+li{
+	list-style: none;
+}
+
+*{
+	padding: 0; margin:0; box-sizing: border-box; 
+}
+
+a { text-decoration: none; }
+ 
+a:hover{
+	text-decoration: none;
+}
+
+li{ list-style: none;  }
+
+
+@media(max-width: 1168px){
+	#list_1{
+		display: none;
+
+	}
+}
+/************************ 2nd Slider start*******************************/
+.box{
+	text-align: center;
+	/*border: 1px solid rgba(0,0,0,0.3);*/
+	
+	transition: 0.3s ease;
+
+}
+/*.box:hover{
+	background: #16c9f6;
+
+}*/
+
+}
+.box a{
+	position: relative;
+
+}
+.box a img{
+	width: 300px;
+	height: 250px;
+	border-color: transparent;
+	border-width:0px;
+}
+
+
+.box h1{
+    font-size: 18px;
+    font-size: 800;
+    color: #000;
+    margin-bottom: 10px;
+
+}
+
+.box h2{
+	font-size: 13px;
+	font-weight: 400px;
+	color: #666666;
+	margin-bottom: 20px;
+}
+/************************ 2nd Slider end*******************************/
+/* external css: flickity.css */
+
+body { font-family: sans-serif; }
+
+.carousel {
+  background: #EEE;
+}
+
+.carousel-cell {
+  width: auto;
+  height: auto;
+  margin-right: 10px;
+  background: #8C8;
+  counter-increment: gallery-cell;
+}
+
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  content: counter(gallery-cell);
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+
+
+/* external css: flickity.css */
+
+body { font-family: sans-serif; }
+
+.main-carousel {
+  background: #EEE;
+}
+
+.Today-cell {
+  width: 28%;
+  height: 190px;
+  margin-right: 10px;
+  background: #fff;
+  
+}
+
+/* cell number */
+.Today-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+  background-color: #fff;
+}
+
