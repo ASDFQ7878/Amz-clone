@@ -131,7 +131,7 @@
         </a>
       </li>
        
-      <li style="font-weight: bold; font-size: 13px;"><a href="#"><span>Yash's Amazon.in</span></a></li>
+      <li style="font-weight: bold; font-size: 13px;"><a href="#"><span>Pap's Amazon.in</span></a></li>
       <li style="font-weight: bold; font-size: 13px;"><a href="#"><span>Amazon Pay</span></a></li>
       <li style="font-weight: bold; font-size: 13px;"><a href="#"><span>Mobiles</span></a></li>
       <li style="font-weight: bold; font-size: 13px;"><a href="#"><span>Best seller</span></a></li>
