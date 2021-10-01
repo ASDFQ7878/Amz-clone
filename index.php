@@ -426,10 +426,10 @@
             <td>Tax</td>
             <td>INR 0</td>
           </tr>
-          <tr class="total">
-            <td>Total</td>
-            <th>INR <?php echo $total?></th>
-          </tr>
+          
+
+          
+
         </table>
       </div>
     </div>
