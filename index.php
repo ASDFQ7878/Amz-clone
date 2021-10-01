@@ -402,6 +402,40 @@
   </div>
 </section>
   
+  <section>
+  
+    <div class="col-md-3"><!--col-md-3 start--> 
+    <div class="box" id="order-summary">
+      <div class="box-header">
+        <h3>Order Summary</h3>
+      </div>
+      <p class="text-muted">
+        Shopping & Addition cost are calculated
+      </p>
+      <div class="table-responsive">
+        <table class="table">
+          <tr>
+            <td>Order Subtotal</td>
+            <th>INR <?php echo $total?></th>
+          </tr>
+          <tr>
+            <td>Shipping Charges</td>
+            <td>INR 0</td>
+          </tr>
+          <tr>
+            <td>Tax</td>
+            <td>INR 0</td>
+          </tr>
+          <tr class="total">
+            <td>Total</td>
+            <th>INR <?php echo $total?></th>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div><!--col-md-3 start--> 
+  </section>
+  
   <!-- JavaScript -->
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
