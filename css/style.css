@@ -66,6 +66,13 @@ li{ list-style: none;  }
 
 }
 
+.box1 a img{
+	width: 300px;
+	height: 250px;
+	border-color: transparent;
+	border-width:0px;
+}
+
 .box h2{
 	font-size: 13px;
 	font-weight: 400px;
