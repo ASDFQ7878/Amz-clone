@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
 
- <link rel="stylesheet" type="text/css" href="css/style.css">
+ <link rel="stylesheet" type="text/css" href="css/css/style.css">
   
 </head>
 <body>
